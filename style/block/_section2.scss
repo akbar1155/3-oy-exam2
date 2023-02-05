@@ -40,7 +40,7 @@
 
                 &__li1:hover {
                     border: 2px solid #6AAE55;
-                
+
                 }
 
 
@@ -62,7 +62,7 @@
 
                     &__h3 {
                         width: 52px;
-margin-left: 12px;
+                        margin-left: 12px;
                         font-family: 'Literal';
                         font-size: 14px;
                         line-height: 19px;
@@ -80,7 +80,7 @@ margin-left: 12px;
                         // height: 22px;
                         position: relative;
                         top: -20px;
-margin-left: 8px;
+                        margin-left: 8px;
                         font-family: 'Literal';
                         font-size: 16px;
                         line-height: 22px;
@@ -92,6 +92,51 @@ margin-left: 8px;
                         color: #828282;
                     }
                 }
+            }
+
+            &__ul2 {
+                position: relative;
+                left: -230px;
+
+                &__li1 {
+                    width: 65px;
+                    height: 22px;
+                    left: 915px;
+                    top: 415px;
+
+                    font-family: 'Literal';
+                    font-size: 16px;
+                    line-height: 22px;
+                    /* identical to box height */
+
+
+                    /* Brown */
+
+                    color: #5B4A58;
+                    text-decoration-line: underline;
+                }
+
+                &__li2 {
+                    width: 144px;
+                    height: 22px;
+                    left: 1014px;
+                    top: 415px;
+
+                    font-family: 'Literal';
+                    font-size: 16px;
+                    line-height: 22px;
+                    /* identical to box height */
+
+
+                    /* Gray 3 */
+
+                    color: #828282;
+                }
+            }
+
+            &__ul3 {
+                margin-left: -230px;
+                padding-top: 10px;
             }
 
             &__h1 {
@@ -122,4 +167,19 @@ margin-left: 8px;
 
 .mrl3 {
     margin-left: 30px;
+}
+
+.section2__div1__div__ul3>li {
+    width: 299px;
+    height: 24px;
+    margin-bottom: 15px;
+    font-family: 'Literal';
+    font-size: 16px;
+    line-height: 150%;
+    color: #5B4A58;
+}
+.tik{
+    position: relative;
+    top: -200px;
+    left: 300px;
 }
