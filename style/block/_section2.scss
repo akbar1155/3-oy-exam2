@@ -1,0 +1,30 @@
+.section2 {
+    width: 1050px;
+    margin: 0 auto;
+    padding-left: 90px;
+
+    &__p1 {
+        width: 188px;
+        height: 19px;
+        font-family: 'Literal';
+        font-size: 14px;
+        line-height: 19px;
+        color: #828282;
+
+    }
+
+    &__button {
+        width: 102px;
+        height: 30px;
+       top: 30px;
+       left: 348px;
+        color: white;
+        border: none;
+        position: relative;
+        /* Green */
+
+        background: #6AAE55;
+        border-radius: 3px 10px;
+
+    }
+}

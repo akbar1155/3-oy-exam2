@@ -1,0 +1,34 @@
+.container-big {
+    width: 1250px;
+    margin: 0 auto;
+    // justify-content: center;
+}
+
+.container-title {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.df {
+    display: flex;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.mrl {
+    margin-left: 100px;
+}
+
+.jcsb {
+    justify-content: space-between;
+}

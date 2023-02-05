@@ -1,0 +1,217 @@
+.section1 {
+    width: 1250px;
+    height: 107.11px;
+
+
+    background: #FFF;
+    margin: 0 auto;
+
+    &__ul1 {
+        width: 1050px;
+        text-align: center;
+        justify-content: space-between;
+        // gap: 50.66px;
+
+        &__li1 {
+            width: 70px;
+            height: 20px;
+            top: 12px;
+
+            position: relative;
+            font-family: 'Literal';
+            font-size: 14px;
+            line-height: 19px;
+            text-transform: uppercase;
+
+            /* Brown */
+
+            color: #5B4A58;
+        }
+
+        &__li2 {
+            top: 12px;
+
+            position: relative;
+            width: 60px;
+            height: 19px;
+            font-family: 'Literal';
+            font-size: 14px;
+            line-height: 19px;
+            /* identical to box height */
+
+            text-transform: uppercase;
+
+            /* Brown */
+
+            color: #5B4A58;
+        }
+
+        &__li3 {
+            top: 12px;
+
+            position: relative;
+            width: 62.03px;
+            height: 20px;
+
+
+            font-family: 'Literal';
+            font-size: 14px;
+            line-height: 19px;
+            text-transform: uppercase;
+
+            /* Brown */
+
+            color: #5B4A58;
+        }
+
+        &__li4 {
+            top: 12px;
+
+            position: relative;
+            width: 85.01px;
+            height: 17.96px;
+
+
+            font-family: 'Literal';
+            font-size: 14px;
+            line-height: 19px;
+            text-transform: uppercase;
+
+            /* Brown */
+
+            color: #5B4A58;
+        }
+
+        &__li5 {
+            width: 102.14px;
+            height: 84.6px;
+            top: -12px;
+
+            position: relative;
+
+            /* Brown */
+
+            // background: #5B4A58;}
+
+            &__li6 {
+                top: 12px;
+
+                position: relative;
+
+                &__p1 {
+                    width: 208.11px;
+                    height: 19.51px;
+
+                    font-family: 'Literal';
+                    font-size: 14px;
+                    line-height: 19px;
+                    text-transform: uppercase;
+
+                    /* Brown */
+
+                    color: #5B4A58;
+
+                    transform: rotate(-0.22deg);
+                }
+
+            }
+
+            &__li7 {
+                position: relative;
+                top: 13px;
+
+
+                &__p1 {
+
+                    width: 97.17px;
+                    height: 19.51px;
+                    left: 1347.89px;
+                    top: 84px;
+
+                    font-family: 'Literal';
+                    font-size: 14px;
+                    line-height: 19px;
+                    text-transform: uppercase;
+
+                    /* Brown */
+
+                    color: #5B4A58;
+
+                    transform: rotate(-0.22deg);
+                }
+            }
+
+            &__li8 {
+                display: block;
+                position: relative;
+                top: -10px;
+
+
+                &__p1 {
+                    position: relative;
+                    top: -10px;
+                    width: 32.55px;
+                    height: 16.4px;
+                    left: 1479px;
+                    top: 76.13px;
+
+                    font-family: 'Literal';
+                    font-size: 14px;
+                    line-height: 19px;
+                    text-transform: uppercase;
+
+                    /* Brown */
+
+                    color: #5B4A58;
+
+                    transform: rotate(-0.22deg);
+                }
+
+                &__p2 {
+                    position: relative;
+                    top: -10px;
+                    width: 35.19px;
+                    height: 17.73px;
+                    left: 1479px;
+                    top: 93.66px;
+
+                    font-family: 'Literal';
+                    font-size: 14px;
+                    line-height: 19px;
+                    text-transform: uppercase;
+
+                    /* Brown */
+
+                    color: #5B4A58;
+
+                    opacity: 0.5;
+                    transform: rotate(-0.22deg);
+                }
+
+            }
+
+
+
+        }
+    }
+}
+
+select {
+    border: none;
+    position: relative;
+    top: -15px;
+}
+
+.fa-user {
+    border: 1.5px solid #5B4A58;
+    border-radius: 50%;
+    width: 22px;
+    padding-top: 1px;
+    position: relative;
+    top: 13px;
+    margin-right: 5px;
+    text-align: center;
+    height: 22px;
+
+
+}
