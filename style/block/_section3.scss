@@ -1,0 +1,110 @@
+.section3 {
+    width: 1050px;
+    margin: 0 auto;
+    position: relative;
+    top: -900px;
+    left: 30px;
+
+    &__h1 {
+        width: 200px;
+        height: 29px;
+        position: relative;
+        left: 500px;
+        font-family: 'Karton';
+        font-size: 24px;
+        line-height: 29px;
+        /* identical to box height */
+
+        text-align: center;
+
+        /* Green */
+
+        color: #6AAE55;
+    }
+
+    &__div1 {
+        &__div1 {
+            margin-top: 20px;
+
+            &__ul1 {
+                &__li1 {
+                    width: 169px;
+                    height: 48px;
+                    font-family: 'Literal';
+                    font-size: 22px;
+                    line-height: 24px;
+
+                    /* Brown */
+
+                    color: #5B4A58;
+                }
+
+                &__li3 {
+                    width: 76px;
+                    height: 24px;
+
+                    // margin-top: 5px;
+                    // margin-bottom: 5px;
+                    padding-top: 5px;
+                    padding-bottom: 5px;
+                    font-family: 'Literal';
+                    font-size: 16px;
+                    line-height: 150%;
+                    /* identical to box height, or 24px */
+
+
+                    /* Brown */
+
+                    color: #5B4A58;
+                }
+
+                &__li2 {
+                    margin-top: 10px;
+                    &__b1 {
+                        border: none;
+                        width: 25px;
+                        height: 25px;
+                        font-size: 22px;
+                        text-align: center;
+                        align-items: center;
+                        background: #E0E0E0;
+                        border-radius: 4px;
+                    }
+
+                    &__p1 {
+                        position: relative;
+                        left: 24px;
+                        top: -14px;
+                        font-family: 'Literal';
+                        font-size: 16px;
+                        line-height: 150%;
+                        color: #5B4A58;
+                    }
+
+                    &__b2 {
+                        width: 25px;
+                        height: 25px;
+                        border: none;
+                        margin-left: 50px;
+                        /* Green */
+
+                        background: #6AAE55;
+                        border-radius: 4px;
+                    }
+
+                }
+
+                &__li4 {
+                    text-align: center;
+            padding-top: 10px;
+
+                    width: 135px;
+                    height: 30px;
+                    border-radius: 5px;
+                    background-color: #6AAE55;
+                    color: white;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,237 @@
+.footer1 {
+    width: 1250px;
+    margin: 0 auto;
+    position: relative;
+    top: -750px;
+    background-color: #5B4A58;
+}
+
+.footer {
+    width: 1050px;
+    margin: 0 auto;
+    margin-left: 100px;
+
+    &__ul1 {
+        &__li1 {
+            width: 213px;
+            height: 21px;
+            left: 407px;
+            top: 1755px;
+
+            font-family: 'Roboto Medium';
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height */
+
+
+            /* Green */
+
+            color: #6AAE55;
+        }
+
+        &__li2 {
+
+
+            &__p1 {
+                width: 184px;
+                height: 44px;
+                left: 433px;
+                top: 1796px;
+                margin-left: 10px;
+                font-family: 'Literal';
+                font-size: 16px;
+                line-height: 22px;
+
+                color: #FFFFFF;
+            }
+        }
+
+        &__li3 {
+            &__a1 {
+                width: 141px;
+                height: 22px;
+                position: relative;
+                top: -15px;
+
+                font-family: 'Literal';
+                font-size: 16px;
+                line-height: 22px;
+                /* identical to box height */
+
+
+                color: #FFFFFF;
+            }
+
+            &__i1 {
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }
+
+        }
+
+        &__li4 {
+            &__a1 {
+                width: 141px;
+                height: 22px;
+                position: relative;
+                top: -15px;
+
+                font-family: 'Literal';
+                font-size: 16px;
+                line-height: 22px;
+                /* identical to box height */
+
+
+                color: #FFFFFF;
+            }
+        }
+
+        &__li5 {
+            &__clock {
+                color: white;
+                position: relative;
+                left: -8px;
+                top: 6px;
+                font-size: 20px;
+            }
+
+            &__p1 {
+                width: 186px;
+                height: 44px;
+                position: relative;
+                top: -21px;
+
+
+                font-family: 'Literal';
+                font-size: 16px;
+                line-height: 22px;
+
+                color: #FFFFFF;
+            }
+        }
+    }
+
+    &__ul2 {
+        margin-left: 30px;
+
+        &__li1 {
+            width: 146px;
+            height: 21px;
+            left: 726px;
+            top: 1755px;
+
+            font-family: 'Roboto Medium';
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height */
+
+
+            /* Green */
+
+            color: #6AAE55;
+        }
+
+        &__li2 {
+            width: 236px;
+            height: 22px;
+            left: 726px;
+            top: 1876px;
+            margin-top: 15px;
+
+            font-family: 'Literal';
+            font-size: 16px;
+            line-height: 22px;
+            /* identical to box height */
+
+
+            color: #FFFFFF;
+
+            opacity: 0.8;
+        }
+    }
+
+    &__ul3 {
+        margin-left: 30px;
+        gap: 20px;
+
+        &__li1 {
+            width: 346px;
+            height: 21px;
+            left: 726px;
+            top: 1755px;
+
+            font-family: 'Roboto Medium';
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height */
+
+
+            /* Green */
+
+            color: #6AAE55;
+        }
+
+        &__li2 {
+            width: 367px;
+            height: 19px;
+            left: 1068px;
+            top: 1790px;
+
+            font-family: 'Literal';
+            font-size: 14px;
+            line-height: 19px;
+            /* identical to box height */
+
+            justify-content: space-between;
+            /* Gray 6 */
+
+            color: #F2F2F2;
+        }
+
+        &__li3 {
+            justify-content: space-between;
+        }
+
+        &__li5 {
+            width: 222px;
+            height: 40px;
+            position: relative;
+            top: 40px;
+            left: 240px;
+            padding-top: 5px;
+
+            text-align: center;
+            color: white;
+            font-size: 20px;
+            /* Green */
+
+            background: #6AAE55;
+            border-radius: 5px;
+        }
+    }
+}
+
+.lac {
+    margin-top: 5px;
+    position: relative;
+    top: 15px;
+    font-size: 20px;
+    left: -10px;
+}
+
+.footer__ul3__li3>input {
+    width: 215px;
+    height: 25px;
+    position: relative;
+    top: 15px;
+}
+
+.footer__ul3__li4>input {
+    width: 451px;
+    height: 75px;
+
+    position: relative;
+    top: 28px;
+    background: #FFFFFF;
+
+}
